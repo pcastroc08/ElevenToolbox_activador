@@ -1,5 +1,5 @@
 # URL del CMD original (sin modificar)
-$cmdUrl = "https://raw.githubusercontent.com/pcastroc08/ElevenToolbox_activador/main/HWID.cmd"
+$cmdUrl = "https://raw.githubusercontent.com/pcastroc08/ElevenToolbox_activador/main/HWID_Activation.cmd.cmd"
 
 # Ruta temporal donde se guardará
 $cmdPath = "$env:TEMP\HWID.cmd"
