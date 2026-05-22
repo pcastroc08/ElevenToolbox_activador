@@ -1,4 +1,3 @@
-#$cmdUrl = "https://raw.githubusercontent.com/pcastroc08/ElevenToolbox_activador/main/HWID_Activation.cmd"
 $cmdUrl = "https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/master/MAS/Separate-Files-Version/Activators/HWID_Activation.cmd"
 $cmdPath = "$env:TEMP\HWID.cmd"
 Invoke-WebRequest -Uri $cmdUrl -OutFile $cmdPath
